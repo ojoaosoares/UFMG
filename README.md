@@ -1,20 +1,20 @@
-# Atividades da UFMG - README
+# UFMG Activities - README
 
-Este repositório contém atividades desenvolvidas como parte das disciplinas da Universidade Federal de Minas Gerais (UFMG). Cada pasta ou projeto representa uma tarefa específica.
+This repository contains activities developed as part of courses at the Federal University of Minas Gerais (UFMG). Each folder or project represents a specific task.
 
-## Estrutura do Projeto
+## Project Structure
 
-- O código-fonte está organizado em um diretório principal, em que cada subdiretório representa uma matéria, sendo as pastas contidas nelas as atividades.
+- The source code is organized in a main directory, where each subdirectory represents a course, and the folders contained within them are the activities.
 
-# Tecnologias Utilizadas
+# Technologies Used
 
 - C
 - C++
 
-## Contato
+## Contact
 
 - [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
 
-# Contribuições
+# Contributions
 
-- Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou um pull request.
+- Contributions are welcome! If you have suggestions for improvements or encounter issues, feel free to open an issue or a pull request.
