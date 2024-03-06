@@ -13,7 +13,7 @@ This repository contains activities developed as part of courses at the Federal 
 
 ## Contact
 
-- [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
+- [Linkedin](http://www.linkedin.com/in/ojoaovsoares)
 
 # Contributions
 
