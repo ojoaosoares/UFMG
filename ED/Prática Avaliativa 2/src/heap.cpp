@@ -86,9 +86,9 @@ void Heap::HeapifyPorCima(int posicao)
     {
         int temp = data[atual];
         data[atual] = data[menor];
-        data[menor] = atual;
+        data[menor] = temp;
 
-        HeapifyPorBaixo(menor);
+        HeapifyPorCima(menor);
     }
 
 }
